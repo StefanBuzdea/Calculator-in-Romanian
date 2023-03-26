@@ -9,6 +9,8 @@ The program can handle a range of operations, including addition, subtraction, m
 An easy example : input of "Cat este suma dintre 3, 4, 5 cu 7 minus 3" (meaning "What is the sum of 3, 4, 5, and 7 minus 3?") would output "saisprezece" (meaning "sixteen" in English). 
 The program can also handle float values in the output.
 More examples and rules of usage can be found on the Menu -> Rules page (appears when compiling). The Rules page looks like the one below:
+
+
 ![Rules_and_Info](https://user-images.githubusercontent.com/80952227/227777161-567f1f94-4081-452e-b66a-f49ed3abe566.jpg)
 
 
