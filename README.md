@@ -20,7 +20,7 @@ To run the program, CodeBlocks is required, as well as the `graphics.h` library 
 
 ## Usage
 
-To use this calculator program, simply download and install CodeBlocks and add the `graphics.h` library to the project. Then, compile and run the program. You can enter any combination of written and numeric expressions, and the program will output the result in written form, in Romanian language.
+To use this calculator program, install CodeBlocks and add the `graphics.h` library to the project (needs to be downloaded too). Then, compile on a 32-bit compiler (can be installed and modified in CodeBlocks) and run the program. You can enter any combination of written and numeric expressions, and the program will output the result in written form, in Romanian language.
 
 
 ## License
